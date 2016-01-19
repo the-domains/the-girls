@@ -1,0 +1,28 @@
+name: The Girls
+favicon: null
+layout_spectrum: 0.8722474263049662
+typography_spectrum: 0.6549030039459467
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.08413369115442038
+  lightness: 0.33851080713793635
+  saturation: 0.4518122114241123
+  rhythmicContrast: 0.7898360847029835
+purpose: []
